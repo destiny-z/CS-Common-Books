@@ -53,7 +53,7 @@
 - 数据结构与算法分析C语言描述版       [百度云下载链接](https://pan.baidu.com/s/1NKUBCrbuBPHKvJTgGX0viw) 密码:rh63
 - 数据结构与算法分析Java语言描述版     [百度云下载链接](https://pan.baidu.com/s/1bpwgJUBXk9WwDTnQRwmtJg) 密码:x9ze
 - 数据结构与算法 Python语言描述_裘宗燕      [百度云下载链接](https://pan.baidu.com/s/1vGQrTauwXwzNiAniDMxwcQ) 密码:cmk6 
-- 计算机程序设计艺术1-3卷       
+- 计算机程序设计艺术1-3卷       [百度云下载链接](https://pan.baidu.com/s/1KxUudMFYqTc1uPsqn75s1Q) 密码:d5vt
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1R7JWfJanP3_tTBliWbUcEA) 密码:jmf1
 - 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1xWlDuSi_Y71KQEo-R9U9aQ) 密码:n7bf
 - 编程之美       [百度云下载链接](https://pan.baidu.com/s/1Utowx5um0DAym-90-j3e_w) 密码:8c9d
@@ -112,13 +112,13 @@
 
 ### 2、数据分析与爬虫
 
-- 数据科学入门       
-- 用Python写网络爬虫       
-- Python数据处理       
-- Python数据分析实战       
-- Python数据科学手册       
-- Python数据可视化编程实战       
-- 精通Scrapy网络爬虫       
+- 数据科学入门       [百度云下载链接](https://pan.baidu.com/s/11l-bgBnMpPXgHxKnEFa93g) 密码:amk5
+- 用Python写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/1Sje1jRCGnVNrEbvjJqw2MA) 密码:8079
+- Python数据处理       [百度云下载链接](https://pan.baidu.com/s/1Vtjc7gWB5WaiIruNQYST4A) 密码:qi7h
+- Python数据分析实战       [百度云下载链接](https://pan.baidu.com/s/1QflhYOARq9mfNsRq4O0W5w) 密码:rgmq
+- Python数据科学手册       [百度云下载链接](https://pan.baidu.com/s/1AE1SP_aMMauvk-dD6RiOeQ) 密码:bdcf
+- Python数据可视化编程实战       [百度云下载链接](https://pan.baidu.com/s/1YxVZinxDmfygYbhWqeSeVw) 密码:l8mo
+- 精通Scrapy网络爬虫       [百度云下载链接](https://pan.baidu.com/s/1gReKQpAnVnd2EwSCFrAFKw) 密码:yp5j
 
 # Linux
 
@@ -135,31 +135,31 @@
 
 # C语言
 
-- 经典C程序100例       
-- C Primer Plus       
-- C程序设计语言（包括课后答案等）       
-- C和指针       
-- C语言编程精粹       
-- C语言参考手册       
-- C语言函数大全       
-- C语言解析教程       
-- C语言深度剖析       
-- C专家编程       
+- 经典C程序100例       [百度云下载链接](https://pan.baidu.com/s/1Tk6cU-hH8ZB73shKiuvZvg) 密码:wu1a
+- C Primer Plus       [百度云下载链接](https://pan.baidu.com/s/1Y1_txoOVasDlmNjLkdTWPg) 密码:4qul
+- C程序设计语言（包括课后答案等）       [百度云下载链接](https://pan.baidu.com/s/1RJTqEws9mdiUqcmW3CP6yw) 密码:pe1j
+- C和指针       [百度云下载链接](https://pan.baidu.com/s/1Ua7TDyduYJMv3pqfd_cy5g) 密码:s437
+- C语言编程精粹       [百度云下载链接](https://pan.baidu.com/s/1vh2L7BjC_GgJ0CDMvW5jUQ) 密码:8mw0
+- C语言参考手册       [百度云下载链接](https://pan.baidu.com/s/1rsY63IvvYsgtwnLTZOzQYQ) 密码:823q
+- C语言函数大全       [百度云下载链接](https://pan.baidu.com/s/1D7qKhkEfcuWhz3CXsPYwzQ) 密码:8z0p
+- C语言解析教程       [百度云下载链接](https://pan.baidu.com/s/1oGz5AtjEyuhMXJPXoRROjA) 密码:sthb
+- C语言深度剖析       [百度云下载链接](https://pan.baidu.com/s/1jK57q9iK-OqyDo3Xk7U3Lw) 密码:ojdk
+- C专家编程       [百度云下载链接](https://pan.baidu.com/s/1cdOYkpn8sZ2sQkHEeX4_ow) 密码:vv3y
 
 # C++
 
-- C++ Primer       
-- C++编程思想       
-- C++对象模型       
-- 深入探索C++对象模型       
-- C++ Templates       
-- C++编程规范-101条规则准则与最佳实践       
-- C++沉思录中文第2版       
-- C++大学教程       
-- C++设计新思维-泛型编程与设计之应用       
-- Effective STL 中文版       
-- More Effective C++中文版       
-- STL源码剖析       
+- C++ Primer       [百度云下载链接](https://pan.baidu.com/s/14n5fPrRiU4jNq8iubTXL-Q) 密码:shdi
+- C++编程思想       [百度云下载链接](https://pan.baidu.com/s/1yRl3P5Nb6phGl0-24AJOyg) 密码:57zq
+- C++对象模型       [百度云下载链接](https://pan.baidu.com/s/1qo7vVVerSrDUZ4jAUnJwGg) 密码:f0zh
+- 深入探索C++对象模型       [百度云下载链接](https://pan.baidu.com/s/18xg428rDtk8WTwZX8qlX9w) 密码:95xg
+- C++ Templates       [百度云下载链接](https://pan.baidu.com/s/1Ig37p3qz8UyFwE4xO7lv0g) 密码:bw93
+- C++编程规范-101条规则准则与最佳实践       [百度云下载链接](https://pan.baidu.com/s/1H0Rj_zBUFRD1C4eAxCpMCQ) 密码:5kn0
+- C++沉思录中文第2版       [百度云下载链接](https://pan.baidu.com/s/1__0g5Ka-ZaHhfx6_8lwd9w) 密码:jrxc
+- C++大学教程       [百度云下载链接](https://pan.baidu.com/s/1Yt45B_3FU0G0aWtUMQDufw) 密码:0843
+- C++设计新思维-泛型编程与设计之应用       [百度云下载链接](https://pan.baidu.com/s/1WZC3pTGSvNtQWJXFNH2LNA) 密码:28ua
+- Effective STL 中文版       [百度云下载链接](https://pan.baidu.com/s/1XE2zBBMoH0UCFLtHoqc-xA) 密码:n15o
+- More Effective C++中文版       [百度云下载链接](https://pan.baidu.com/s/15YlHyTEG1-Q0WHH14FHIIA) 密码:gws6
+- STL源码剖析       [百度云下载链接](https://pan.baidu.com/s/1PWGIYrrWQpSaPcUKv5DUYg) 密码:6h42
 
 # 前端
 
@@ -178,12 +178,13 @@
 
 # 人工智能
 
-- 贝叶斯思维统计建模的Python学习法       
-- 机器学习实战       
-- Python机器学习及实践       
-- Tensorflow实战Google深度学习框架       
-- TensorFlow实践与智能系统       
-- 深度学习_中文版       
+- 机器学习    
+- 贝叶斯思维统计建模的Python学习法    [百度云下载链接](https://pan.baidu.com/s/1tYxAg9xD_9BjJLmOHUoK8w) 密码:x21k   
+- 机器学习实战       [百度云下载链接](https://pan.baidu.com/s/1yP4kyrBNmMYRY2rxQa9nuw) 密码:nxue
+- Python机器学习及实践       [百度云下载链接](https://pan.baidu.com/s/1zE2RGbs5KfVK38S7Ilg49g) 密码:szj6
+- Tensorflow实战Google深度学习框架       [百度云下载链接](https://pan.baidu.com/s/1QWSUhOcNNpqjz_X9bgYXEw) 密码:ptz9
+- TensorFlow实践与智能系统       [百度云下载链接](https://pan.baidu.com/s/1OhGgnUkj-pknzE9jxjvjgw) 密码:kp4m
+- 深度学习_中文版       [百度云下载链接](https://pan.baidu.com/s/1mF1dENZ7j1HJpFdyvBRPzA) 密码:swyo
 
 # 设计模式
 
@@ -201,7 +202,7 @@
 - Java8实战       [百度云下载链接](https://pan.baidu.com/s/1Sx9gUN0JyQNydB7WK7DONA) 密码:8k30
 - Java编程思想       [百度云下载链接](https://pan.baidu.com/s/1TeXyEc0kQkVh4zjl1XXsIA) 密码:74s3
 - Java并发编程的艺术       [百度云下载链接](https://pan.baidu.com/s/1hQzdWFCAA7BF7qd6sZsmNQ) 密码:7mcw
-- Java并发编程实践       [百度云下载链接](https://pan.baidu.com/s/1t5E8Snlnpm1vLSndCkD7Tg) 密码:1ogr
+- Java并发编程实践(推荐)       [百度云下载链接](https://pan.baidu.com/s/1t5E8Snlnpm1vLSndCkD7Tg) 密码:1ogr
 - Java从小白到大牛       [百度云下载链接](https://pan.baidu.com/s/1EfLdrO02HzGmasDhTUAUEA) 密码:cvj7
 - Java核心技术1-2卷       [百度云下载链接](https://pan.baidu.com/s/1dK5DiqZriT8kMgphg3ewAg) 密码:k2qn
 - 深入理解Java虚拟机       [百度云下载链接](https://pan.baidu.com/s/150cegqBN0MxLtDtPyYoMjQ) 密码:1mgd
@@ -257,7 +258,9 @@
 
 # 中间件
 
-* redis实战          [百度云下载链接](https://pan.baidu.com/s/1yGiuSPQfvgxrQpBxEEWvNw) 密码:5iw7
+- Redis设计与实现(推荐)     [百度云下载链接](https://pan.baidu.com/s/1Y9QFoTelm6iE1L6dbPzDwQ) 密码:p5x5
+- Redis深度历险     [百度云下载链接](https://pan.baidu.com/s/1gwqhMDsMjV1S-0lzhJGLtg) 密码:l224
+- redis实战          [百度云下载链接](https://pan.baidu.com/s/1yGiuSPQfvgxrQpBxEEWvNw) 密码:5iw7
 
 # 未分类书籍
 
