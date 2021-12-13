@@ -178,7 +178,7 @@
 
 # 人工智能
 
-- 机器学习    
+- 机器学习    [百度云下载链接](https://pan.baidu.com/s/10g3nHw7BMWtMTQRP9mA7uA) 密码:r3am
 - 贝叶斯思维统计建模的Python学习法    [百度云下载链接](https://pan.baidu.com/s/1tYxAg9xD_9BjJLmOHUoK8w) 密码:x21k   
 - 机器学习实战       [百度云下载链接](https://pan.baidu.com/s/1yP4kyrBNmMYRY2rxQa9nuw) 密码:nxue
 - Python机器学习及实践       [百度云下载链接](https://pan.baidu.com/s/1zE2RGbs5KfVK38S7Ilg49g) 密码:szj6
